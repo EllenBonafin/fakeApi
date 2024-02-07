@@ -1,6 +1,7 @@
 {
     "wigtes":[
         {"id": 1, "nome": "Rastreamento ao vivo", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
-         {"id": 2, "nome": "Teste da ellen", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."}
+         {"id": 2, "nome": "Teste da ellen", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+          {"id": 3, "nome": "Teste do dia", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."}
     ]
 }
