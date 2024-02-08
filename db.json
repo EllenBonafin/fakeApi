@@ -1,7 +1,57 @@
 {
-    "wigtes":[
-        {"id": 1, "nome": "Rastreamento ao vivo", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
-         {"id": 2, "nome": "Teste da ellen", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
-          {"id": 3, "nome": "Teste do dia", "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."}
-    ]
+  "wigtes": [
+    {
+      "id": 1,
+      "nome": "Rastreamento ao vivo",
+      "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 2,
+      "nome": "Teste da ellen",
+      "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 3,
+      "nome": "Teste do dia",
+      "descicao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ],
+  "carros": [
+    {
+      "id": 1,
+      "nome": "POLO",
+      "placa": "ABC-123",
+      "velocidade_media": 80.0,
+      "velocidades_diarias": [
+        {
+          "dia": "segunda",
+          "velocidade_media": 70.0,
+          "velocidade_por_segundo": 19.44
+        },
+        {
+          "dia": "terca",
+          "velocidade_media": 85.0,
+          "velocidade_por_segundo": 23.61
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "GOL",
+      "placa": "ACB-789",
+      "velocidade_media": 75.0,
+      "velocidades_diarias": [
+        {
+          "dia": "segunda",
+          "velocidade_media": 65.0,
+          "velocidade_por_segundo": 18.06
+        },
+        {
+          "dia": "terca",
+          "velocidade_media": 80.0,
+          "velocidade_por_segundo": 22.22
+        }
+      ]
+    }
+  ]
 }
