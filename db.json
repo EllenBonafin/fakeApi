@@ -26,27 +26,32 @@
         {
           "dia": "segunda",
           "velocidade_media": 70.0,
-          "velocidade_por_segundo": 19.44
+          "velocidade_por_segundo": 19.44,
+          "combustivel_gasto": 5
         },
         {
           "dia": "terca",
           "velocidade_media": 85.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 10
         },
         {
           "dia": "quarta",
           "velocidade_media": 60.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 2
         },
          {
           "dia": "quinta",
           "velocidade_media": 90.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 15
         },
          {
           "dia": "sexta",
           "velocidade_media": 110.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 6
         }
       ]
     },
@@ -59,27 +64,32 @@
         {
           "dia": "segunda",
           "velocidade_media": 65.0,
-          "velocidade_por_segundo": 18.06
+          "velocidade_por_segundo": 18.06,
+          "combustivel_gasto": 5
         },
         {
           "dia": "terca",
           "velocidade_media": 80.0,
-          "velocidade_por_segundo": 22.22
+          "velocidade_por_segundo": 22.22,
+          "combustivel_gasto": 20
         },
         {
           "dia": "quarta",
           "velocidade_media": 70.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 13
         },
         {
           "dia": "quinta",
           "velocidade_media": 40.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 2
         },
         {
           "dia": "sexta",
           "velocidade_media": 20.0,
-          "velocidade_por_segundo": 23.61
+          "velocidade_por_segundo": 23.61,
+          "combustivel_gasto": 1
         }
       ]
     }
